@@ -28,5 +28,8 @@ Buggy,
 Nathaniel The Bear,
 Drum Major,
 Torture,
-Kami Gomon
+Kami Gomon,
+Gigablitz,
+
+B--l---v
 ...
