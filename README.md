@@ -26,4 +26,5 @@ Bugger,
 Buggy,
 
 Nathaniel The Bear,
+Drum Major,
 ...
