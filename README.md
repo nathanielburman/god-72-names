@@ -31,6 +31,6 @@ Torture,
 Kami Gomon,
 Gigablitz,
 
-B--l---v
-I AM A
+B--l---v,
+I AM A,
 ...
