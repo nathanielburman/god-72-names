@@ -21,4 +21,9 @@ Bathrobe Burman,
 
 Island Harvest,
 Deluge 20xx,
+Bug,
+Bugger,
+Buggy,
+
+Nathaniel The Bear,
 ...
