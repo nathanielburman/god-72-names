@@ -36,4 +36,7 @@ I AM A,
 Dragonkin,
 god,
 BaalKeelia,
+
+AAAAAAAA,
+00000000,
 ...
