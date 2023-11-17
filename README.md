@@ -27,4 +27,6 @@ Buggy,
 
 Nathaniel The Bear,
 Drum Major,
+Torture,
+Kami Goman
 ...
