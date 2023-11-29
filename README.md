@@ -54,4 +54,16 @@ Error,
 99 NFT,
 Trumpet,
 Winsock,
+
+PI,
+Private Eye,
+Baal'keelia,
+Ba'al Kelia,
+Super Straight,
+
+Melohim,
+NaN,
+Not A Number,
+Boop Boop Boop,
+boop boop boop beep beep beep
 ...
